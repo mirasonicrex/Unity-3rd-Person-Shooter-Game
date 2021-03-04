@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: f194e7d2cfee89a47b5b78722db347f4
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 4f18aab277ff12b4daa3b1d92e3a0940
+  - 2db127d944d4ce746aa9caeba20b4e64
+  - 3b1c7ac9aa0664441b5301aa2439f9c2
+  - 94cbaae04daf93f44ae6b80282768d93
+  - 9b03fe8ef124a29459eca50c4a68de14
+  - 6520b884a5e441b42b7bea7c8bbdd3d2
+  - 471c646346a72a547bb49c90a468b2a9
+  - f1b2fa93ea6498e439e88a9b8cc68063
+  - 9590d0964b07c1d4c85ad324e0bf6c24
+  - c3e0888f8aae4ab4ca17626b24ac3c37
+  - 7e1f22d68ed222744869c805dc78a7a6
+  - d7df4ad8e8e272349b6842c0331dcd66
+  - bf4eea8334429d942b25ecf2d5df27a8
+  - 56bf68478dc7c6f4cb589206656e5b53
+  - 5a8de4943a343a04288bb623cf0211e0
+  - 8c6b16ceec3d1584a89d2a281f04ab1b
+  - 32b89e7a2ad541c45949997f45a2b4da
+  - 96653aefb62d98b4e83cfba88d6f77e1
+  - 531db14446cd6ee4b91ab4cb1da6da97
+  - 6124af975800c9942af946ab2b791b3f
+  - fb0bab21ccb55e74282a67c7ee0670ec
+  - 91abe6e81c2092a4b97c2c667a356d36
+  - 4df23171a71208f4e9f920ed53ea1504
+  - a3012151bbbe7aa4aadd530e8611ec41
+  - 15128bdf83f0bf64e84882b7d66f3410
+  - 49ffd67e47a8d6842bbde8f67e025cad
+  - b6f7ac010f6bf944aafc4c019288d398
+  - d97d16f7dc2da6144a6a51ae4c96d92c
+  - 6122ff90cc4ba5f47a0b712c7dbc7a1c
+  - ec5fc695aa430874a9913ee0fdc23172
+  - bc10a53674d535648a72f21ad2545854
+  - 0aef96c2e1b4b994d863a37fd104ba0c
+  - 1cff7e05afae6ca4b8996ebad4807362
+  - e64e2de1887fbc446827ff5bb83ad5b1
+  - 93fb759b47dd98945a87c3604a1ff0d3
+  - 909d4e1bf6af18546b425f1b1828d81a
+  - 56943cf40b26ba04ba792d7c371cf8f5
+  - 90f0b4f0944f07240ac4f460b660645a
+  - d25d7b76d0e349746875a6f127607cca
+  - 7cb47a93f33576b4a94da79c0dade88a
+  - 76bb4591398323b45abcce3b13791d4f
+  - 979506dd79966b64883d7af06842bce5
+  - 0a5f3afe93d7ef04e87165e8cbdb6816
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
