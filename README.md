@@ -10,3 +10,6 @@
 - Jumping, running, and crouching
 - Zoom in and out using the right mouse down 
 - Reload, Fire, and change gun type 
+
+![Screenshot 2021-03-16 151935](https://user-images.githubusercontent.com/69655522/111558301-be4dd180-874b-11eb-8bc6-b96933bfa75e.jpg)
+
